@@ -1,0 +1,59 @@
+.navigation{
+    text-decoration: none;
+    color:black;
+}
+.navigation:hover{
+    color:#2196F3;
+}
+.logo{
+    color:black;
+    text-decoration: none;
+}
+.contact{
+    text-decoration: none;
+    color: black;
+}
+.contact:hover{
+    color:#2196F3;
+}
+.effect{
+    background-color: #2F303A;
+    height: 600px;
+    width: 1600px;
+}
+.button{
+    border: 0px;
+    background-color:#2196F3;
+    color:white;
+    height: 50px;
+    border-radius: 5px;
+}
+.button:hover{
+    background-color:#0b2840 ;
+}
+footer{
+    background-color: #2F303A;
+}
+.ef1{
+    color: white;
+}
+.team{
+    background-color: #F5F4FA;
+}
+ul{
+    list-style-type:none;
+}
+.contact2{
+    text-decoration: none;
+    color: grey;
+}
+.contact2:hover{
+    color:aqua;
+}
+.adress{
+    color: white;
+}
+.team1{
+    background-color: white;
+    width: 300px;
+}
